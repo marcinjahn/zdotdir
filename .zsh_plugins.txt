@@ -3,6 +3,8 @@
 # .zsh_plugins.txt - antidote plugins file
 #
 
+lukechilds/zsh-nvm
+
 ### Overview
 #
 # The `.zsh_plugins.txt` file is used by antidote to configure Zsh bundles. Bundles are
