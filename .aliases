@@ -27,3 +27,5 @@ alias p='python3'
 alias open='xdg-open &>/dev/null'
 
 alias ports='sudo lsof -i -P -n | grep LISTEN'
+
+alias j='z'
