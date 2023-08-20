@@ -29,3 +29,5 @@ alias open='xdg-open &>/dev/null'
 alias ports='sudo lsof -i -P -n | grep LISTEN'
 
 alias j='z'
+
+alias zdot='cd ${ZDOTDIR:-~}'
